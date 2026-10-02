@@ -1,0 +1,13 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.8",
+  "Category": "Games",
+  "Description": "Duatfall foundation; no playable content yet",
+  "Modules": [
+    {
+      "Name": "Duatfall",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
