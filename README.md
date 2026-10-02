@@ -37,3 +37,7 @@ Only engine primitives, Starter Content and CC0 assets are used. Each one is lis
 
 ## Development note
 Development uses AI coding assistants under my direction and review. Commits carry honest co-author trailers, and the history is never rewritten.
+
+## Executable foundation
+
+[Portable core, commands and verification limits](docs/CORE.md). No playable build yet.
